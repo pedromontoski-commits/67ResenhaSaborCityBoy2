@@ -2,8 +2,10 @@ body{
     background-color: black;
 }
 h1{
- color: blue;   
+ color: blue; 
+   font-style:italic ;
 }
+
 p{
     color: white;
 }
