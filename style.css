@@ -2,7 +2,7 @@ body{
     background-color: black;
 }
 h1{
- color: blue; 
+ color: blueviolet; 
    font-style:italic ;
 }
 
@@ -10,10 +10,10 @@ p{
     color: white;
 }
 h2{
-    color: blueviolet;
+    color: rgb(1, 1, 103);
 }
 h3{
-    color: orangered;
+    color:blue ;
 }
 h4{
     color: red;
